@@ -13,8 +13,10 @@ Directories:
 1. Documents
     * mcarvalh_resume.pdf
 
-2. Projects
-    * FIN654 (Financial Analytics)
+2. Program Overview
+    * Portfolio Milestone.docx
+    
+3. Projects
     * IST718 (Big Data Analytics)
     * IST707 (Applied Machine Learning)
     * IST719 (Information Visualization)
